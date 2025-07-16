@@ -3,12 +3,12 @@ This project integrates web scraping, database creation, and SQL-based data expl
 
 ## About the data
 The dataset used contains the Gross Domestic Product (GDP) at current prices, measured in billions of U.S. dollars, for a selection of countries over a five-year period (2020–2025).
-Source: IMF World Economic Outlook database
-Time frame: Annual GDP data from 2020 to 2025
-Countries covered: Bangladesh, Bhutan, Brunei Darussalam, Cambodia, China, and others from South Asia and the surrounding region
-Structure:
-Each row represents a country
-Columns contain GDP figures for each year
+-Source: IMF World Economic Outlook database
+-Time frame: Annual GDP data from 2020 to 2025
+-Countries covered: Bangladesh, Bhutan, Brunei Darussalam, Cambodia, China, and others from South Asia and the surrounding region
+-Structure:
+  Each row represents a country
+  Columns contain GDP figures for each year
 
 ## About the Project
 This project shows the end-to-end process of working with real-world macroeconomic data:
