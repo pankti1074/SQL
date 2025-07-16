@@ -6,9 +6,7 @@ The dataset used contains the Gross Domestic Product (GDP) at current prices, me
 - Source: IMF World Economic Outlook database
 - Time frame: Annual GDP data from 2020 to 2025
 - Countries covered: Bangladesh, Bhutan, Brunei Darussalam, Cambodia, China, and others from South Asia and the surrounding region
-- Structure:
-  Each row represents a country
-  Columns contain GDP figures for each year
+- Structure: Each row represents a country & Columns contain GDP figures for each year
 
 ## About the Project
 This project shows the end-to-end process of working with real-world macroeconomic data:
